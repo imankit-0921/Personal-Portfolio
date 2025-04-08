@@ -13,3 +13,8 @@ Built using:
 In the /personal-portfolio, you can run:
 
 ### `npm start`
+
+# My Portfolio
+
+Check out my portfolio here: [![Portfolio Icon](./portfolio.jpg)](https://personal-portfolio-self-phi.vercel.app/)
+
