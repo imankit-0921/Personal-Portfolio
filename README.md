@@ -16,5 +16,5 @@ In the /personal-portfolio, you can run:
 
 # My Portfolio
 
-Check out my portfolio here: [![Portfolio Icon](./portfolio.jpg)](https://personal-portfolio-self-phi.vercel.app/)
+Check out my portfolio here: :globe_with_meridians: [My Portfolio](https://personal-portfolio-self-phi.vercel.app/)
 
